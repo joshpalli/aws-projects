@@ -10,6 +10,5 @@ def lambda_handler(event, context):
         Bucket='joshgithubbucket',
         CreateBucketConfiguration={
             'LocationConstraint': 'us-east-2',
-            
         },
     )
