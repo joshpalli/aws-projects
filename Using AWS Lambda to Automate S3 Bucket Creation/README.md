@@ -8,3 +8,9 @@ In this project, I got to gain hands-on experience in working with Boto3. I was 
 
 ## Challenges
 The biggest challenge I had to overcome in this project was learning Boto3 without any previous knowledge. I watched a video tutorial online to build a basic function and learn the general structure of the programming SDK. I had some trial and error mainly with the naming conventions of S3, as there were bucket names that were already being used. After some basic trial and error in the testing phase of the Lambda function, I got it to work, and I checked the S3 console for confirmation that the bucket was created.
+
+## Guide to Important Files
+1. CreateBucket.py - The code for creating an S3 bucket.
+2. LambdaFunction.png - An image of the CreateBucket.py code in the Lambda console.
+3. TestSuccess.png - An image of the successful testing of the CreateBucket.py code.
+4. BucketConfirmation - Showing the S3 Bucket created in the S3 Console.
