@@ -6,3 +6,4 @@
 4. CreateGlueCrawler.png - An image confirming the creation of my AWS Glue Crawler.
 5. TableCreatedByGlueCrawler.png - An image confirming the creation of a table from my Glue Crawler.
 6. TableCreationAWSGlue.png - An additional image confirming that the table was created.
+7. RanGlueCrawler.png - An image confirming the running of the Glue Crawler and the time it took to complete its function.
